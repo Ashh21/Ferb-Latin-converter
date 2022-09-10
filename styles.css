@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,400;1,700&display=swap');
+
+body{
+font-family: 'Noto Serif', serif;
+margin: 0px;
+}
+
+.navigation{
+    background-color: blueviolet;
+    padding: 1rem;
+    margin: auto;
+    /* text-align:left; */
+    border-radius: 2px;
+}
+
+.navigation .nav-brand{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.container{
+   width: 80%;
+   margin: auto;
+}
+
+textarea{
+    width: 100%;
+    height: 15vh;
+    padding: auto;
+    margin: auto;
+}
+
